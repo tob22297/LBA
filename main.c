@@ -6,6 +6,8 @@
 //Micro: ESP32 
 //Enciende LEDs
 
+#include <Arduino.h>
+
 //Declaracion de Variables
 const int boton1 = 12; // Pin del botón para avanzar el contador
 const int boton2 = 25; // Pin del botón para cambiar el modo
